@@ -1,1 +1,1 @@
-zmiana readme
+druga zmiana readme
